@@ -1,6 +1,8 @@
 # jsRPG
 ### Version 3
 
+[![forthebadge](http://forthebadge.com/images/badges/made-with-crayons.svg)](http://forthebadge.com)
+
 ## Summary
 Version 3 refactors much of the character code and makes them both objects.  We 
 finally have some user input via arguments that lets you set a player name.  It
